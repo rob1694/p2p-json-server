@@ -4,36 +4,36 @@
       "Id" : 1,
       "Title" : "Cocomelon",
       "Description" : "Learn letters, numbers, animal sounds and more with J.J. in this musical series that brings fun times with nursery rhymes for the whole family!",
-      "Img" : "",
-      "Age-Range" : ""
+      "Img" : "db/Pictures/youtube-cocomelon-earnings.jpg",
+      "Age_range" : "All Ages"
     },
     {
       "Id" : 2,
       "Title" : "Mickey Mouse Clubhouse",
       "Description" : "Mickey, Minnie, Pluto, Goofy, Daisy and Donald all hang around the Clubhouse. Mickey leads viewers through stories with play-along and singalong segments. Learning early math skills and identifying shapes, patterns and numbers are all part of Mickey's lessons. Mickey and his pals also play with handy gizmos and gear, including the Mousekedoer, Mouseketools and a transportable device called Toodles.",
-      "Img" : "",
-      "Age-Range" : ""
+      "Img" : "db/Pictures/mickeymouse club house.jpg",
+      "Age_range" : "2yrs to 5yrs"
     },
     {
       "Id" : 3,
       "Title" : "Bluey",
       "Description" : "Follows the adventures of a Blue Heeler puppy, Bluey, who lives with her mum, dad, and sister. Her energy and lovable spirit gets her into all kinds of funny and unpredictable situations.",
-      "Img" : "",
-      "Age-Range" : ""
+      "Img" : "db/Pictures/bluey.jpg",
+      "Age_range" : "5yrs to 7yrs"
     },
     {
       "Id" : 4,
       "Title" : "Blue's clues",
       "Description" : "A human host welcomes his preschool audience to the house, where his animated puppy, Blue, helps find three clues to something they are trying to figure out. Viewers are invited to participate, with Blue and her friends stopping to listen to what the audience has to say.",
-      "Img" : "",
-      "Age-Range" : ""
+      "Img" : "db/Pictures/blues-clues.jpg",
+      "Age_range" : "3yrs to 5yrs"
     },
     {
       "Id" : 5,
       "Title" : "Dexter's Laboratory",
       "Description" : "Sleep tight, America! Your fate lies safely in the hands of Dexter, a child genius who whips up dazzling, world-saving inventions in his secret laboratory. Big sister Dee Dee frequently wrecks his experiments, but his bigger nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad, of course, have no idea what their little angel is up to.",
-      "Img" : "",
-      "Age-Range" : ""
+      "Img" : "db/Pictures/dexters lab.jpg",
+      "Age_range" : "6yrs to 8yrs"
     }
   ]
 }
