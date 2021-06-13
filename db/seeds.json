@@ -1,39 +1,39 @@
 {
   "cartoons": [
     {
-      "Id" : 1,
-      "Title" : "Cocomelon",
-      "Description" : "Learn letters, numbers, animal sounds and more with J.J. in this musical series that brings fun times with nursery rhymes for the whole family!",
-      "Img" : "db/Pictures/youtube-cocomelon-earnings.jpg",
-      "Age_range" : "All Ages"
+      "id": 1,
+      "Title": "Cocomelon",
+      "Description": "Learn letters, numbers, animal sounds and more with J.J. in this musical series that brings fun times with nursery rhymes for the whole family!",
+      "Img": "https://i2.wp.com/dailyresearchplot.com/wp-content/uploads/2021/06/1-161.jpg?w=1200&ssl=1",
+      "Age-Range": "All Ages"
     },
     {
-      "Id" : 2,
-      "Title" : "Mickey Mouse Clubhouse",
-      "Description" : "Mickey, Minnie, Pluto, Goofy, Daisy and Donald all hang around the Clubhouse. Mickey leads viewers through stories with play-along and singalong segments. Learning early math skills and identifying shapes, patterns and numbers are all part of Mickey's lessons. Mickey and his pals also play with handy gizmos and gear, including the Mousekedoer, Mouseketools and a transportable device called Toodles.",
-      "Img" : "db/Pictures/mickeymouse club house.jpg",
-      "Age_range" : "2yrs to 5yrs"
+      "id": 2,
+      "Title": "Mickey Mouse Clubhouse",
+      "Description": "Mickey, Minnie, Pluto, Goofy, Daisy and Donald all hang around the Clubhouse. Mickey leads viewers through stories with play-along and singalong segments. Learning early math skills and identifying shapes, patterns and numbers are all part of Mickey's lessons. Mickey and his pals also play with handy gizmos and gear, including the Mousekedoer, Mouseketools and a transportable device called Toodles.",
+      "Img": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=1200&aspectRatio=1.78&format=jpeg",
+      "Age-Range": "2yrs to 5yrs"
     },
     {
-      "Id" : 3,
-      "Title" : "Bluey",
-      "Description" : "Follows the adventures of a Blue Heeler puppy, Bluey, who lives with her mum, dad, and sister. Her energy and lovable spirit gets her into all kinds of funny and unpredictable situations.",
-      "Img" : "db/Pictures/bluey.jpg",
-      "Age_range" : "5yrs to 7yrs"
+      "id": 3,
+      "Title": "Bluey",
+      "Description": "Follows the adventures of a Blue Heeler puppy, Bluey, who lives with her mum, dad, and sister. Her energy and lovable spirit gets her into all kinds of funny and unpredictable situations.",
+      "Img": "https://m.media-amazon.com/images/M/MV5BMDBiNDI3YjQtNDdkNS00ZDliLTlmMmQtMDE4ZWM1ZGIyNjljXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+      "Age-Range": "5yrs to 7yrs"
     },
     {
-      "Id" : 4,
-      "Title" : "Blue's clues",
-      "Description" : "A human host welcomes his preschool audience to the house, where his animated puppy, Blue, helps find three clues to something they are trying to figure out. Viewers are invited to participate, with Blue and her friends stopping to listen to what the audience has to say.",
-      "Img" : "db/Pictures/blues-clues.jpg",
-      "Age_range" : "3yrs to 5yrs"
+      "id": 4,
+      "Title": "Blue's clues",
+      "Description": "A human host welcomes his preschool audience to the house, where his animated puppy, Blue, helps find three clues to something they are trying to figure out. Viewers are invited to participate, with Blue and her friends stopping to listen to what the audience has to say.",
+      "Img": "https://kidscreen.com/wp/wp-content/uploads/2019/06/blues-clues.jpg",
+      "Age-Range": "3yrs to 5yrs"
     },
     {
-      "Id" : 5,
-      "Title" : "Dexter's Laboratory",
-      "Description" : "Sleep tight, America! Your fate lies safely in the hands of Dexter, a child genius who whips up dazzling, world-saving inventions in his secret laboratory. Big sister Dee Dee frequently wrecks his experiments, but his bigger nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad, of course, have no idea what their little angel is up to.",
-      "Img" : "db/Pictures/dexters lab.jpg",
-      "Age_range" : "6yrs to 8yrs"
+      "id": 5,
+      "Title": "Dexter's Laboratory",
+      "Description": "Sleep tight, America! Your fate lies safely in the hands of Dexter, a child genius who whips up dazzling, world-saving inventions in his secret laboratory. Big sister Dee Dee frequently wrecks his experiments, but his bigger nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad, of course, have no idea what their little angel is up to.",
+      "Img": "https://m.media-amazon.com/images/M/MV5BMzdlMDMxNzItNmViNS00NDRkLTg3OWMtNjliZGIxY2M5N2YyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "Age-Range": "6yrs to 8yrs"
     }
   ]
 }
